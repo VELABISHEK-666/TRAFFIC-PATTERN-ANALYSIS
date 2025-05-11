@@ -1,6 +1,7 @@
 # TRAFFIC-PATTERN-ANALYSIS-NM
 
 🚦 TRAFFIC PATTERNS ANALYSIS
+
 📌 Introduction
 Traffic congestion is a common issue in urban environments, affecting productivity, pollution levels, and quality of life. This project simulates traffic data and analyzes vehicle flow patterns using Python-based data visualization techniques. It aims to identify trends across different hours and days to support smarter traffic management decisions.
 
