@@ -6,6 +6,7 @@
 
 Traffic congestion is a common issue in urban environments, affecting productivity, pollution levels, and quality of life. This project simulates traffic data and analyzes vehicle flow patterns using Python-based data visualization techniques. It aims to identify trends across different hours and days to support smarter traffic management decisions.
 
+
 🎯 Objective
 
 Simulate and analyze traffic volume data across different timeframes
@@ -15,6 +16,7 @@ Visualize traffic behavior using line plots, heatmaps, and bar charts
 Highlight peak hours and weekly patterns in vehicle flow
 
 Provide an intuitive, visual basis for further traffic optimization research
+
 
 📊 Data Source
 
@@ -28,6 +30,7 @@ Hourly vehicle counts
 
 Features: datetime, vehicle_count, hour, day
 
+
 🛠️ Technologies Used
 Python 3.x
 
@@ -38,6 +41,7 @@ NumPy – Traffic simulation
 Matplotlib – Line and bar plots
 
 Seaborn – Heatmaps
+
 
 📈 Visualizations
 
@@ -55,6 +59,7 @@ Useful to identify rush hours and low-traffic periods
 
 Daily average vehicle count visualized with gradient bars
 Useful for comparing traffic volume across different days
+
 
 ▶️ How to Run
 
