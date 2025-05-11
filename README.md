@@ -34,6 +34,7 @@ Features: datetime, vehicle_count, hour, day
 🛠️ Technologies Used
 Python 3.x
 
+
 Pandas – Data manipulation
 
 NumPy – Traffic simulation
@@ -44,6 +45,7 @@ Seaborn – Heatmaps
 
 
 📈 Visualizations
+
 
 📉 Line Graph – Traffic Over Time (Hour-Colored):
 
@@ -64,7 +66,10 @@ Useful for comparing traffic volume across different days
 ▶️ How to Run
 
 Clone the Repository
+
 Install Dependencies
+
 Run the Script
+
 View Visualizations
 
